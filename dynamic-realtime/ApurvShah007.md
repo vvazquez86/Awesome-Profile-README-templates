@@ -33,7 +33,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![VVazquez86 github stats](https://github-readme-stats.vercel.app/api?username=vvazquez86&show_icons=true)
 <br />
 <br />
 <br />
